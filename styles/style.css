@@ -1,0 +1,42 @@
+.content {
+    width: 350px;
+    border: 2px solid black;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+}
+
+.content .fab {
+    margin-top: 20px;
+    font-size: 100px;
+}
+
+.content h2 {
+    font-size: 40px;
+}
+
+.content p {
+    font-size: 20px;
+}
+
+.content a {
+    background: black;
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    padding: 10px 100px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    
+}
+
+.content:hover {
+    background-color: aqua;
+    color: red;
+}
+
+.content a:hover {
+    background-color: yellow;
+    color: red;
+}
